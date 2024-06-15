@@ -50,7 +50,7 @@ def updata():
                os.system("pause")
                sys.exit()
           else:
-               updtat_url = "https://gitee.com/xjhw/ikaros-tools/raw/master/check/ikaros-unlock_updata.json"
+               updtat_url = "https://gitee.com/yuexps/ikaros-unlock/raw/main/data/config.json"
                updata = requests.get(updtat_url).text
                updata_json = json.loads(updata)
 
