@@ -3,6 +3,7 @@
 Minecraft for Windows 过验证 Python脚本
  
  下载：<a href="https://github.com/yuexps/ikaros-unlock/tree/main/dist">可执行程序</a>
+ 
  ![image](https://github.com/yuexps/ikaros-unlock/assets/69074603/7ef057bb-9a61-4e6c-a881-38d84e9b4775)
 
 </p>
