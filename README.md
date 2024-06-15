@@ -1,6 +1,6 @@
 <p>
 <strong><h2>ikaros unlock</h2></strong>
-Minecraft for Windows 过验证 脚本
+Minecraft for Windows 过验证 Python脚本
  
  下载：<a href="https://github.com/yuexps/ikaros-unlock/tree/main/dist">可执行程序</a>
 </p>
