@@ -1,4 +1,6 @@
 {
     "version":"1.0.0",
-    "check_updata":"true"
+    "check_updata":"true",
+    "updata_log":"暂无",
+    "updata_url":"https://gitee.com/yuexps/ikaros-unlock/tree/main/dist"
 }
